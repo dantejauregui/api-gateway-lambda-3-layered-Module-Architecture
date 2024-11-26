@@ -1,6 +1,7 @@
-# Create Terraform Modules in 3-layered Module Architecture
+# Creating Terraform Modules in 3-layered Module Architecture
 
-Project architecture:
+Project architecture following Terraform Good practices:
+https://www.terraform-best-practices.com/key-concepts 
 ```sh
 .
 ├── README.md
